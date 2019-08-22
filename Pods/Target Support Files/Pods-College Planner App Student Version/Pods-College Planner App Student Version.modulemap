@@ -1,0 +1,6 @@
+framework module Pods_College_Planner_App_Student_Version {
+  umbrella header "Pods-College Planner App Student Version-umbrella.h"
+
+  export *
+  module * { export * }
+}
